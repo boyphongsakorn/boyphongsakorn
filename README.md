@@ -2,3 +2,4 @@
 
 [![ko-fi](https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5cbed8a4cf61eceb26012821_SupportMe_red-p-500.png)](https://ko-fi.com/boyphongsakorn)
 
+[![buy me a coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/boyphongsakorn)
