@@ -32,6 +32,6 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 
 [![Ko--fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/boyphongsakorn) [![Buy_Me_A_Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/boyphongsakorn) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/boyphongsakorn?country.x=TH&locale.x=th_TH)
 
-# Talk to me or ask me somethink
+# Talk to me or ask me something
 
 [![Discord](https://img.shields.io/discord/844173039520317470?label=Discord&logo=Discord&style=for-the-badge)](https://discord.gg/j7xce5hxUf)
