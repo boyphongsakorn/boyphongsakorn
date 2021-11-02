@@ -1,6 +1,6 @@
 Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev For Web and Programs
 
-[![My Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pwisetthon.com/)
+[![My Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pwisetthon.com/) [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://boyphongsakorn.wordpress.com/)
 
 ## My Framework,Cloud And More Use on My Project
 
