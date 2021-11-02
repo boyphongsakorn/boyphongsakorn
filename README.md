@@ -8,7 +8,7 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 
 # My PC spec
 
-![AMD-Ryzen_5_3500U](https://img.shields.io/badge/AMD-Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![AMD-Ryzen_5_3500U](https://img.shields.io/badge/AMD-Radeon_Vega_Mobile_Gfx-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![asus-laptop](https://img.shields.io/badge/asus-laptop-000000?style=for-the-badge&logo=asus&logoColor=white) ![AMD-Ryzen_5_3500U](https://img.shields.io/badge/AMD-Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![AMD-Radeon_Vega_Mobile_Gfx](https://img.shields.io/badge/AMD-Radeon_Vega_Mobile_Gfx-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 # My Github stats
 
