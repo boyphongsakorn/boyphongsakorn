@@ -18,4 +18,4 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 
 # Talk to me or ask me somethink
 
-<a href="https://discord.gg/j7xce5hxUf"><img src="https://i1.wp.com/peakofserenity.com/wp-content/uploads/2018/12/wZgPoYaVlU0gAAAABJRU5ErkJggg.png" width="200"></a>
+![Discord](https://img.shields.io/discord/844173039520317470?label=Discord&logo=Discord&style=for-the-badge)
