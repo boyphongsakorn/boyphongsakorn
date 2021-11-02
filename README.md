@@ -20,9 +20,7 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 
 # My Donate
 
-<a href="https://ko-fi.com/boyphongsakorn"><img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5cbed8a4cf61eceb26012821_SupportMe_red-p-500.png" width="200"></a>
-
-<a href="https://www.buymeacoffee.com/boyphongsakorn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"></a>
+[![Ko--fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/boyphongsakorn) [![Buy_Me_A_Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/boyphongsakorn)
 
 # Talk to me or ask me somethink
 
