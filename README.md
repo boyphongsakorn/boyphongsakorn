@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/TheBotlyNoob/playit.gg/issues/2) in [TheBotlyNoob/playit.gg](https://github.com/TheBotlyNoob/playit.gg)
-2. ❗️ Closed issue [#1](https://github.com/TheBotlyNoob/playit.gg/issues/1) in [TheBotlyNoob/playit.gg](https://github.com/TheBotlyNoob/playit.gg)
-3. ❗️ Opened issue [#1](https://github.com/TheBotlyNoob/playit.gg/issues/1) in [TheBotlyNoob/playit.gg](https://github.com/TheBotlyNoob/playit.gg)
-4. 🎉 Merged PR [#27](https://github.com/Quad-B/saox/pull/27) in [Quad-B/saox](https://github.com/Quad-B/saox)
-5. ❗️ Closed issue [#54](https://github.com/markusahlstrand/cloudworker-router/issues/54) in [markusahlstrand/cloudworker-router](https://github.com/markusahlstrand/cloudworker-router)
+1. ❗️ Closed issue [#2](https://github.com/TheBotlyNoob/playit.gg/issues/2) in [TheBotlyNoob/playit.gg](https://github.com/TheBotlyNoob/playit.gg)
+2. ❗️ Opened issue [#2](https://github.com/TheBotlyNoob/playit.gg/issues/2) in [TheBotlyNoob/playit.gg](https://github.com/TheBotlyNoob/playit.gg)
+3. ❗️ Closed issue [#1](https://github.com/TheBotlyNoob/playit.gg/issues/1) in [TheBotlyNoob/playit.gg](https://github.com/TheBotlyNoob/playit.gg)
+4. ❗️ Opened issue [#1](https://github.com/TheBotlyNoob/playit.gg/issues/1) in [TheBotlyNoob/playit.gg](https://github.com/TheBotlyNoob/playit.gg)
+5. 🎉 Merged PR [#27](https://github.com/Quad-B/saox/pull/27) in [Quad-B/saox](https://github.com/Quad-B/saox)
 <!--END_SECTION:activity-->
 
 # My Donate
