@@ -21,10 +21,10 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Quad-B/Manroid/pull/7) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
-2. 🎉 Merged PR [#6](https://github.com/Quad-B/Manroid/pull/6) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
-3. 🎉 Merged PR [#5](https://github.com/Quad-B/lottsanook-docker/pull/5) in [Quad-B/lottsanook-docker](https://github.com/Quad-B/lottsanook-docker)
-4. ❗️ Opened issue [#1](https://github.com/TheBotlyNoob/playit.gg/issues/1) in [TheBotlyNoob/playit.gg](https://github.com/TheBotlyNoob/playit.gg)
+1. 🗣 Commented on [#1449](https://github.com/timmo001/system-bridge/issues/1449) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+2. 🎉 Merged PR [#7](https://github.com/Quad-B/Manroid/pull/7) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
+3. 🎉 Merged PR [#6](https://github.com/Quad-B/Manroid/pull/6) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
+4. 🎉 Merged PR [#5](https://github.com/Quad-B/lottsanook-docker/pull/5) in [Quad-B/lottsanook-docker](https://github.com/Quad-B/lottsanook-docker)
 5. 🎉 Merged PR [#27](https://github.com/Quad-B/saox/pull/27) in [Quad-B/saox](https://github.com/Quad-B/saox)
 <!--END_SECTION:activity-->
 
