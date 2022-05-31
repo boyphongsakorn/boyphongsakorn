@@ -21,7 +21,7 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1449](https://github.com/timmo001/system-bridge/issues/1449) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+1. ❗️ Opened issue [#2](https://github.com/tui2tone/thai-number-chrome-extension/issues/2) in [tui2tone/thai-number-chrome-extension](https://github.com/tui2tone/thai-number-chrome-extension)
 2. 🎉 Merged PR [#7](https://github.com/Quad-B/Manroid/pull/7) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
 3. 🎉 Merged PR [#6](https://github.com/Quad-B/Manroid/pull/6) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
 4. 🎉 Merged PR [#5](https://github.com/Quad-B/lottsanook-docker/pull/5) in [Quad-B/lottsanook-docker](https://github.com/Quad-B/lottsanook-docker)
