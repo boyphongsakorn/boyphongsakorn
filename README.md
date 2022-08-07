@@ -21,7 +21,7 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3502](https://github.com/home-assistant/brands/issues/3502) in [home-assistant/brands](https://github.com/home-assistant/brands)
+1. ❗️ Opened issue [#1539](https://github.com/networkupstools/nut/issues/1539) in [networkupstools/nut](https://github.com/networkupstools/nut)
 2. 💪 Opened PR [#3502](https://github.com/home-assistant/brands/pull/3502) in [home-assistant/brands](https://github.com/home-assistant/brands)
 3. 🎉 Merged PR [#6](https://github.com/Quad-B/Manroid/pull/6) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
 4. 🎉 Merged PR [#5](https://github.com/Quad-B/lottsanook-docker/pull/5) in [Quad-B/lottsanook-docker](https://github.com/Quad-B/lottsanook-docker)
