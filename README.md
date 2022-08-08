@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/boyphongsakorn/playitgg-docker/issues/1) in [boyphongsakorn/playitgg-docker](https://github.com/boyphongsakorn/playitgg-docker)
-2. 🗣 Commented on [#1](https://github.com/boyphongsakorn/playitgg-docker/issues/1) in [boyphongsakorn/playitgg-docker](https://github.com/boyphongsakorn/playitgg-docker)
-3. ❗️ Opened issue [#1539](https://github.com/networkupstools/nut/issues/1539) in [networkupstools/nut](https://github.com/networkupstools/nut)
-4. 🎉 Merged PR [#5](https://github.com/Quad-B/lottsanook-docker/pull/5) in [Quad-B/lottsanook-docker](https://github.com/Quad-B/lottsanook-docker)
-5. 🎉 Merged PR [#27](https://github.com/Quad-B/saox/pull/27) in [Quad-B/saox](https://github.com/Quad-B/saox)
+1. 🗣 Commented on [#1539](https://github.com/networkupstools/nut/issues/1539) in [networkupstools/nut](https://github.com/networkupstools/nut)
+2. ❗️ Closed issue [#2](https://github.com/tui2tone/thai-number-chrome-extension/issues/2) in [tui2tone/thai-number-chrome-extension](https://github.com/tui2tone/thai-number-chrome-extension)
+3. ❗️ Closed issue [#2](https://github.com/tui2tone/thai-number-chrome-extension/issues/2) in [tui2tone/thai-number-chrome-extension](https://github.com/tui2tone/thai-number-chrome-extension)
+4. 🗣 Commented on [#1](https://github.com/boyphongsakorn/playitgg-docker/issues/1) in [boyphongsakorn/playitgg-docker](https://github.com/boyphongsakorn/playitgg-docker)
+5. 🗣 Commented on [#1](https://github.com/boyphongsakorn/playitgg-docker/issues/1) in [boyphongsakorn/playitgg-docker](https://github.com/boyphongsakorn/playitgg-docker)
 <!--END_SECTION:activity-->
 
 # My Donate
