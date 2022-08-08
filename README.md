@@ -22,9 +22,9 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1539](https://github.com/networkupstools/nut/issues/1539) in [networkupstools/nut](https://github.com/networkupstools/nut)
-2. ❗️ Closed issue [#2](https://github.com/tui2tone/thai-number-chrome-extension/issues/2) in [tui2tone/thai-number-chrome-extension](https://github.com/tui2tone/thai-number-chrome-extension)
+2. 🗣 Commented on [#1539](https://github.com/networkupstools/nut/issues/1539) in [networkupstools/nut](https://github.com/networkupstools/nut)
 3. ❗️ Closed issue [#2](https://github.com/tui2tone/thai-number-chrome-extension/issues/2) in [tui2tone/thai-number-chrome-extension](https://github.com/tui2tone/thai-number-chrome-extension)
-4. 🗣 Commented on [#1](https://github.com/boyphongsakorn/playitgg-docker/issues/1) in [boyphongsakorn/playitgg-docker](https://github.com/boyphongsakorn/playitgg-docker)
+4. ❗️ Closed issue [#2](https://github.com/tui2tone/thai-number-chrome-extension/issues/2) in [tui2tone/thai-number-chrome-extension](https://github.com/tui2tone/thai-number-chrome-extension)
 5. 🗣 Commented on [#1](https://github.com/boyphongsakorn/playitgg-docker/issues/1) in [boyphongsakorn/playitgg-docker](https://github.com/boyphongsakorn/playitgg-docker)
 <!--END_SECTION:activity-->
 
