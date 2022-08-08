@@ -22,8 +22,8 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/boyphongsakorn/playitgg-docker/issues/1) in [boyphongsakorn/playitgg-docker](https://github.com/boyphongsakorn/playitgg-docker)
-2. ❗️ Opened issue [#1539](https://github.com/networkupstools/nut/issues/1539) in [networkupstools/nut](https://github.com/networkupstools/nut)
-3. 🎉 Merged PR [#6](https://github.com/Quad-B/Manroid/pull/6) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
+2. 🗣 Commented on [#1](https://github.com/boyphongsakorn/playitgg-docker/issues/1) in [boyphongsakorn/playitgg-docker](https://github.com/boyphongsakorn/playitgg-docker)
+3. ❗️ Opened issue [#1539](https://github.com/networkupstools/nut/issues/1539) in [networkupstools/nut](https://github.com/networkupstools/nut)
 4. 🎉 Merged PR [#5](https://github.com/Quad-B/lottsanook-docker/pull/5) in [Quad-B/lottsanook-docker](https://github.com/Quad-B/lottsanook-docker)
 5. 🎉 Merged PR [#27](https://github.com/Quad-B/saox/pull/27) in [Quad-B/saox](https://github.com/Quad-B/saox)
 <!--END_SECTION:activity-->
