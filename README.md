@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1539](https://github.com/networkupstools/nut/issues/1539) in [networkupstools/nut](https://github.com/networkupstools/nut)
-2. 🗣 Commented on [#1539](https://github.com/networkupstools/nut/issues/1539) in [networkupstools/nut](https://github.com/networkupstools/nut)
+1. ❗️ Closed issue [#33](https://github.com/felixrieseberg/electron-windows-notifications/issues/33) in [felixrieseberg/electron-windows-notifications](https://github.com/felixrieseberg/electron-windows-notifications)
+2. ❗️ Closed issue [#56](https://github.com/samuelmeuli/action-electron-builder/issues/56) in [samuelmeuli/action-electron-builder](https://github.com/samuelmeuli/action-electron-builder)
 3. 🗣 Commented on [#1539](https://github.com/networkupstools/nut/issues/1539) in [networkupstools/nut](https://github.com/networkupstools/nut)
 4. 🗣 Commented on [#1539](https://github.com/networkupstools/nut/issues/1539) in [networkupstools/nut](https://github.com/networkupstools/nut)
-5. ❗️ Closed issue [#2](https://github.com/tui2tone/thai-number-chrome-extension/issues/2) in [tui2tone/thai-number-chrome-extension](https://github.com/tui2tone/thai-number-chrome-extension)
+5. 🗣 Commented on [#1539](https://github.com/networkupstools/nut/issues/1539) in [networkupstools/nut](https://github.com/networkupstools/nut)
 <!--END_SECTION:activity-->
 
 # My Donate
