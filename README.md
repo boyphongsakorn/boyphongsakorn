@@ -21,8 +21,8 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1539](https://github.com/networkupstools/nut/issues/1539) in [networkupstools/nut](https://github.com/networkupstools/nut)
-2. ❗️ Closed issue [#56](https://github.com/samuelmeuli/action-electron-builder/issues/56) in [samuelmeuli/action-electron-builder](https://github.com/samuelmeuli/action-electron-builder)
+1. 💪 Opened PR [#1792](https://github.com/itzg/docker-minecraft-server/pull/1792) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+2. 🗣 Commented on [#1539](https://github.com/networkupstools/nut/issues/1539) in [networkupstools/nut](https://github.com/networkupstools/nut)
 3. 🗣 Commented on [#1539](https://github.com/networkupstools/nut/issues/1539) in [networkupstools/nut](https://github.com/networkupstools/nut)
 4. 🗣 Commented on [#1539](https://github.com/networkupstools/nut/issues/1539) in [networkupstools/nut](https://github.com/networkupstools/nut)
 5. 🗣 Commented on [#1539](https://github.com/networkupstools/nut/issues/1539) in [networkupstools/nut](https://github.com/networkupstools/nut)
