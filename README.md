@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1802](https://github.com/itzg/docker-minecraft-server/pull/1802) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
-2. ❗️ Opened issue [#1801](https://github.com/itzg/docker-minecraft-server/issues/1801) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
-3. ❌ Closed PR [#4166](https://github.com/truecharts/charts/pull/4166) in [truecharts/charts](https://github.com/truecharts/charts)
-4. 🗣 Commented on [#4166](https://github.com/truecharts/charts/issues/4166) in [truecharts/charts](https://github.com/truecharts/charts)
-5. 💪 Opened PR [#4166](https://github.com/truecharts/charts/pull/4166) in [truecharts/charts](https://github.com/truecharts/charts)
+1. 🗣 Commented on [#1801](https://github.com/itzg/docker-minecraft-server/issues/1801) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+2. 💪 Opened PR [#1802](https://github.com/itzg/docker-minecraft-server/pull/1802) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+3. ❗️ Opened issue [#1801](https://github.com/itzg/docker-minecraft-server/issues/1801) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+4. ❌ Closed PR [#4166](https://github.com/truecharts/charts/pull/4166) in [truecharts/charts](https://github.com/truecharts/charts)
+5. 🗣 Commented on [#4166](https://github.com/truecharts/charts/issues/4166) in [truecharts/charts](https://github.com/truecharts/charts)
 <!--END_SECTION:activity-->
 
 # My Donate
