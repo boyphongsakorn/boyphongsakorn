@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4166](https://github.com/truecharts/charts/pull/4166) in [truecharts/charts](https://github.com/truecharts/charts)
-2. 🗣 Commented on [#4166](https://github.com/truecharts/charts/issues/4166) in [truecharts/charts](https://github.com/truecharts/charts)
-3. 💪 Opened PR [#4166](https://github.com/truecharts/charts/pull/4166) in [truecharts/charts](https://github.com/truecharts/charts)
-4. 🗣 Commented on [#1450](https://github.com/blakeblackshear/frigate/issues/1450) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
-5. 🗣 Commented on [#1792](https://github.com/itzg/docker-minecraft-server/issues/1792) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+1. ❗️ Opened issue [#1801](https://github.com/itzg/docker-minecraft-server/issues/1801) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+2. ❌ Closed PR [#4166](https://github.com/truecharts/charts/pull/4166) in [truecharts/charts](https://github.com/truecharts/charts)
+3. 🗣 Commented on [#4166](https://github.com/truecharts/charts/issues/4166) in [truecharts/charts](https://github.com/truecharts/charts)
+4. 💪 Opened PR [#4166](https://github.com/truecharts/charts/pull/4166) in [truecharts/charts](https://github.com/truecharts/charts)
+5. 🗣 Commented on [#1450](https://github.com/blakeblackshear/frigate/issues/1450) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
 <!--END_SECTION:activity-->
 
 # My Donate
