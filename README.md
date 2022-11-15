@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/boyphongsakorn/testrepo/pull/1) in [boyphongsakorn/testrepo](https://github.com/boyphongsakorn/testrepo)
-2. 🗣 Commented on [#15](https://github.com/Quad-B/lottsanook-netlify/issues/15) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
-3. 🎉 Merged PR [#14](https://github.com/Quad-B/lottsanook-netlify/pull/14) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
-4. 🎉 Merged PR [#13](https://github.com/Quad-B/lottsanook-netlify/pull/13) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
-5. 🎉 Merged PR [#12](https://github.com/Quad-B/lottsanook-netlify/pull/12) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
+1. 🎉 Merged PR [#3](https://github.com/boyphongsakorn/pwisetthon-discord-bot/pull/3) in [boyphongsakorn/pwisetthon-discord-bot](https://github.com/boyphongsakorn/pwisetthon-discord-bot)
+2. 🎉 Merged PR [#1](https://github.com/boyphongsakorn/testrepo/pull/1) in [boyphongsakorn/testrepo](https://github.com/boyphongsakorn/testrepo)
+3. 🗣 Commented on [#15](https://github.com/Quad-B/lottsanook-netlify/issues/15) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
+4. 🎉 Merged PR [#14](https://github.com/Quad-B/lottsanook-netlify/pull/14) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
+5. 🎉 Merged PR [#13](https://github.com/Quad-B/lottsanook-netlify/pull/13) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
 <!--END_SECTION:activity-->
 
 # My Donate
