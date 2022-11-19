@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/Quad-B/saox/pull/33) in [Quad-B/saox](https://github.com/Quad-B/saox)
-2. 🎉 Merged PR [#32](https://github.com/Quad-B/saox/pull/32) in [Quad-B/saox](https://github.com/Quad-B/saox)
-3. 🎉 Merged PR [#31](https://github.com/Quad-B/saox/pull/31) in [Quad-B/saox](https://github.com/Quad-B/saox)
-4. 🎉 Merged PR [#30](https://github.com/Quad-B/saox/pull/30) in [Quad-B/saox](https://github.com/Quad-B/saox)
-5. 🎉 Merged PR [#4](https://github.com/Quad-B/lottsanook-resultimage-docker/pull/4) in [Quad-B/lottsanook-resultimage-docker](https://github.com/Quad-B/lottsanook-resultimage-docker)
+1. 🗣 Commented on [#1539](https://github.com/networkupstools/nut/issues/1539) in [networkupstools/nut](https://github.com/networkupstools/nut)
+2. 🎉 Merged PR [#33](https://github.com/Quad-B/saox/pull/33) in [Quad-B/saox](https://github.com/Quad-B/saox)
+3. 🎉 Merged PR [#32](https://github.com/Quad-B/saox/pull/32) in [Quad-B/saox](https://github.com/Quad-B/saox)
+4. 🎉 Merged PR [#31](https://github.com/Quad-B/saox/pull/31) in [Quad-B/saox](https://github.com/Quad-B/saox)
+5. 🎉 Merged PR [#30](https://github.com/Quad-B/saox/pull/30) in [Quad-B/saox](https://github.com/Quad-B/saox)
 <!--END_SECTION:activity-->
 
 # My Donate
