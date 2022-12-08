@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Quad-B/lottsanook-resultimage-docker/pull/10) in [Quad-B/lottsanook-resultimage-docker](https://github.com/Quad-B/lottsanook-resultimage-docker)
-2. 🗣 Commented on [#10](https://github.com/Quad-B/lottsanook-resultimage-docker/issues/10) in [Quad-B/lottsanook-resultimage-docker](https://github.com/Quad-B/lottsanook-resultimage-docker)
-3. 🎉 Merged PR [#16](https://github.com/Quad-B/lottsanook-netlify/pull/16) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
-4. 🗣 Commented on [#16](https://github.com/Quad-B/lottsanook-netlify/issues/16) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
-5. 🎉 Merged PR [#9](https://github.com/Quad-B/lottsanook-resultimage-docker/pull/9) in [Quad-B/lottsanook-resultimage-docker](https://github.com/Quad-B/lottsanook-resultimage-docker)
+1. ❌ Closed PR [#2](https://github.com/boyphongsakorn/myaisfibre-updown-auto/pull/2) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
+2. ❌ Closed PR [#4](https://github.com/boyphongsakorn/myaisfibre-updown-auto/pull/4) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
+3. ❌ Closed PR [#1](https://github.com/boyphongsakorn/myaisfibre-updown-auto/pull/1) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
+4. ❌ Closed PR [#3](https://github.com/boyphongsakorn/myaisfibre-updown-auto/pull/3) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
+5. 🎉 Merged PR [#10](https://github.com/Quad-B/lottsanook-resultimage-docker/pull/10) in [Quad-B/lottsanook-resultimage-docker](https://github.com/Quad-B/lottsanook-resultimage-docker)
 <!--END_SECTION:activity-->
 
 # My Donate
