@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/boyphongsakorn/myaisfibre-updown-auto/pull/2) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
-2. ❌ Closed PR [#4](https://github.com/boyphongsakorn/myaisfibre-updown-auto/pull/4) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
-3. ❌ Closed PR [#1](https://github.com/boyphongsakorn/myaisfibre-updown-auto/pull/1) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
-4. ❌ Closed PR [#3](https://github.com/boyphongsakorn/myaisfibre-updown-auto/pull/3) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
-5. 🎉 Merged PR [#10](https://github.com/Quad-B/lottsanook-resultimage-docker/pull/10) in [Quad-B/lottsanook-resultimage-docker](https://github.com/Quad-B/lottsanook-resultimage-docker)
+1. 🎉 Merged PR [#2](https://github.com/boyphongsakorn/myaisfibre-updown-auto/pull/2) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
+2. 🎉 Merged PR [#4](https://github.com/boyphongsakorn/myaisfibre-updown-auto/pull/4) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
+3. 🎉 Merged PR [#1](https://github.com/boyphongsakorn/myaisfibre-updown-auto/pull/1) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
+4. 🎉 Merged PR [#3](https://github.com/boyphongsakorn/myaisfibre-updown-auto/pull/3) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
+5. 🗣 Commented on [#2](https://github.com/boyphongsakorn/myaisfibre-updown-auto/issues/2) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
 <!--END_SECTION:activity-->
 
 # My Donate
