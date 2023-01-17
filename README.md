@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/boyphongsakorn/node-pi-zero/pull/2) in [boyphongsakorn/node-pi-zero](https://github.com/boyphongsakorn/node-pi-zero)
-2. ❌ Reopened PR [#4](https://github.com/Quad-B/lottsanook-netlify/pull/4) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
-3. ❌ Reopened PR [#15](https://github.com/Quad-B/lottsanook-netlify/pull/15) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
-4. 🎉 Merged PR [#19](https://github.com/Quad-B/lottsanook-netlify/pull/19) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
-5. 🗣 Commented on [#19](https://github.com/Quad-B/lottsanook-netlify/issues/19) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
+1. 🎉 Merged PR [#14](https://github.com/Quad-B/Manroid/pull/14) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
+2. 🎉 Merged PR [#2](https://github.com/boyphongsakorn/node-pi-zero/pull/2) in [boyphongsakorn/node-pi-zero](https://github.com/boyphongsakorn/node-pi-zero)
+3. ❌ Reopened PR [#4](https://github.com/Quad-B/lottsanook-netlify/pull/4) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
+4. ❌ Reopened PR [#15](https://github.com/Quad-B/lottsanook-netlify/pull/15) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
+5. 🎉 Merged PR [#19](https://github.com/Quad-B/lottsanook-netlify/pull/19) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
 <!--END_SECTION:activity-->
 
 # My Donate
