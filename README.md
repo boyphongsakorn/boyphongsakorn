@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/RPi-Distro/rpi-source/issues/12) in [RPi-Distro/rpi-source](https://github.com/RPi-Distro/rpi-source)
-2. ❗️ Opened issue [#12](https://github.com/RPi-Distro/rpi-source/issues/12) in [RPi-Distro/rpi-source](https://github.com/RPi-Distro/rpi-source)
-3. 🎉 Merged PR [#14](https://github.com/Quad-B/Manroid/pull/14) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
-4. 🎉 Merged PR [#2](https://github.com/boyphongsakorn/node-pi-zero/pull/2) in [boyphongsakorn/node-pi-zero](https://github.com/boyphongsakorn/node-pi-zero)
-5. ❌ Reopened PR [#4](https://github.com/Quad-B/lottsanook-netlify/pull/4) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
+1. ❗️ Closed issue [#12](https://github.com/RPi-Distro/rpi-source/issues/12) in [RPi-Distro/rpi-source](https://github.com/RPi-Distro/rpi-source)
+2. 🗣 Commented on [#12](https://github.com/RPi-Distro/rpi-source/issues/12) in [RPi-Distro/rpi-source](https://github.com/RPi-Distro/rpi-source)
+3. 🗣 Commented on [#12](https://github.com/RPi-Distro/rpi-source/issues/12) in [RPi-Distro/rpi-source](https://github.com/RPi-Distro/rpi-source)
+4. ❗️ Opened issue [#12](https://github.com/RPi-Distro/rpi-source/issues/12) in [RPi-Distro/rpi-source](https://github.com/RPi-Distro/rpi-source)
+5. 🎉 Merged PR [#14](https://github.com/Quad-B/Manroid/pull/14) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
 <!--END_SECTION:activity-->
 
 # My Donate
