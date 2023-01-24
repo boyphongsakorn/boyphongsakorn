@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5152](https://github.com/blakeblackshear/frigate/issues/5152) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
-2. ❗️ Closed issue [#12](https://github.com/RPi-Distro/rpi-source/issues/12) in [RPi-Distro/rpi-source](https://github.com/RPi-Distro/rpi-source)
-3. 🗣 Commented on [#12](https://github.com/RPi-Distro/rpi-source/issues/12) in [RPi-Distro/rpi-source](https://github.com/RPi-Distro/rpi-source)
-4. 🗣 Commented on [#12](https://github.com/RPi-Distro/rpi-source/issues/12) in [RPi-Distro/rpi-source](https://github.com/RPi-Distro/rpi-source)
-5. ❗️ Opened issue [#12](https://github.com/RPi-Distro/rpi-source/issues/12) in [RPi-Distro/rpi-source](https://github.com/RPi-Distro/rpi-source)
+1. 🎉 Merged PR [#12](https://github.com/Quad-B/lottsanook-resultimage-docker/pull/12) in [Quad-B/lottsanook-resultimage-docker](https://github.com/Quad-B/lottsanook-resultimage-docker)
+2. 🎉 Merged PR [#15](https://github.com/Quad-B/Manroid/pull/15) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
+3. 🎉 Merged PR [#16](https://github.com/Quad-B/Manroid/pull/16) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
+4. 🗣 Commented on [#5152](https://github.com/blakeblackshear/frigate/issues/5152) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+5. ❗️ Closed issue [#12](https://github.com/RPi-Distro/rpi-source/issues/12) in [RPi-Distro/rpi-source](https://github.com/RPi-Distro/rpi-source)
 <!--END_SECTION:activity-->
 
 # My Donate
