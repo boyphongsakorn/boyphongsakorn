@@ -21,9 +21,9 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/boyphongsakorn/MKRM-Vuejs/pull/9) in [boyphongsakorn/MKRM-Vuejs](https://github.com/boyphongsakorn/MKRM-Vuejs)
-2. 🎉 Merged PR [#8](https://github.com/boyphongsakorn/MKRM-Vuejs/pull/8) in [boyphongsakorn/MKRM-Vuejs](https://github.com/boyphongsakorn/MKRM-Vuejs)
-3. 🎉 Merged PR [#6](https://github.com/boyphongsakorn/MKRM-Vuejs/pull/6) in [boyphongsakorn/MKRM-Vuejs](https://github.com/boyphongsakorn/MKRM-Vuejs)
+1. 🎉 Merged PR [#7](https://github.com/boyphongsakorn/cpsql/pull/7) in [boyphongsakorn/cpsql](https://github.com/boyphongsakorn/cpsql)
+2. 🎉 Merged PR [#9](https://github.com/boyphongsakorn/MKRM-Vuejs/pull/9) in [boyphongsakorn/MKRM-Vuejs](https://github.com/boyphongsakorn/MKRM-Vuejs)
+3. 🎉 Merged PR [#8](https://github.com/boyphongsakorn/MKRM-Vuejs/pull/8) in [boyphongsakorn/MKRM-Vuejs](https://github.com/boyphongsakorn/MKRM-Vuejs)
 4. 🎉 Merged PR [#21](https://github.com/Quad-B/Manroid/pull/21) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
 5. 🎉 Merged PR [#8](https://github.com/boyphongsakorn/cpsv/pull/8) in [boyphongsakorn/cpsv](https://github.com/boyphongsakorn/cpsv)
 <!--END_SECTION:activity-->
