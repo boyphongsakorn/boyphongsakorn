@@ -21,10 +21,10 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5743](https://github.com/blakeblackshear/frigate/issues/5743) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
-2. ❗️ Opened issue [#5743](https://github.com/blakeblackshear/frigate/issues/5743) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
-3. 🗣 Commented on [#30095](https://github.com/facebook/react-native/issues/30095) in [facebook/react-native](https://github.com/facebook/react-native)
-4. 🎉 Merged PR [#22](https://github.com/Quad-B/Manroid/pull/22) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
+1. 🗣 Commented on [#36758](https://github.com/facebook/react-native/issues/36758) in [facebook/react-native](https://github.com/facebook/react-native)
+2. 🗣 Commented on [#5743](https://github.com/blakeblackshear/frigate/issues/5743) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+3. ❗️ Opened issue [#5743](https://github.com/blakeblackshear/frigate/issues/5743) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+4. 🗣 Commented on [#30095](https://github.com/facebook/react-native/issues/30095) in [facebook/react-native](https://github.com/facebook/react-native)
 5. 🎉 Merged PR [#1](https://github.com/boyphongsakorn/crafatar/pull/1) in [boyphongsakorn/crafatar](https://github.com/boyphongsakorn/crafatar)
 <!--END_SECTION:activity-->
 
