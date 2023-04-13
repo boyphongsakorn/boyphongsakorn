@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/Quad-B/Manroid/pull/28) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
-2. 🎉 Merged PR [#16](https://github.com/boyphongsakorn/cpsql/pull/16) in [boyphongsakorn/cpsql](https://github.com/boyphongsakorn/cpsql)
-3. 🎉 Merged PR [#17](https://github.com/boyphongsakorn/MKRM-Vuejs/pull/17) in [boyphongsakorn/MKRM-Vuejs](https://github.com/boyphongsakorn/MKRM-Vuejs)
-4. 🎉 Merged PR [#11](https://github.com/Quad-B/smp_jsapp/pull/11) in [Quad-B/smp_jsapp](https://github.com/Quad-B/smp_jsapp)
-5. 🎉 Merged PR [#1](https://github.com/boyphongsakorn/lotto-cron/pull/1) in [boyphongsakorn/lotto-cron](https://github.com/boyphongsakorn/lotto-cron)
+1. 🗣 Commented on [#535](https://github.com/teslamotors/react-native-camera-kit/issues/535) in [teslamotors/react-native-camera-kit](https://github.com/teslamotors/react-native-camera-kit)
+2. 🎉 Merged PR [#28](https://github.com/Quad-B/Manroid/pull/28) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
+3. 🎉 Merged PR [#16](https://github.com/boyphongsakorn/cpsql/pull/16) in [boyphongsakorn/cpsql](https://github.com/boyphongsakorn/cpsql)
+4. 🎉 Merged PR [#17](https://github.com/boyphongsakorn/MKRM-Vuejs/pull/17) in [boyphongsakorn/MKRM-Vuejs](https://github.com/boyphongsakorn/MKRM-Vuejs)
+5. 🎉 Merged PR [#11](https://github.com/Quad-B/smp_jsapp/pull/11) in [Quad-B/smp_jsapp](https://github.com/Quad-B/smp_jsapp)
 <!--END_SECTION:activity-->
 
 # My Donate
