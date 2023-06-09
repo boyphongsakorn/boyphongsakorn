@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Quad-B/lottsanook-docker/pull/12) in [Quad-B/lottsanook-docker](https://github.com/Quad-B/lottsanook-docker)
-2. 🎉 Merged PR [#6](https://github.com/Quad-B/lottsanook-cfworker/pull/6) in [Quad-B/lottsanook-cfworker](https://github.com/Quad-B/lottsanook-cfworker)
-3. 🗣 Commented on [#4](https://github.com/Quad-B/lottsanook-cfworker/issues/4) in [Quad-B/lottsanook-cfworker](https://github.com/Quad-B/lottsanook-cfworker)
-4. 🎉 Merged PR [#7](https://github.com/Quad-B/lottsanook-cfworker/pull/7) in [Quad-B/lottsanook-cfworker](https://github.com/Quad-B/lottsanook-cfworker)
-5. 🎉 Merged PR [#5](https://github.com/Quad-B/lottsanook-cfworker/pull/5) in [Quad-B/lottsanook-cfworker](https://github.com/Quad-B/lottsanook-cfworker)
+1. ❌ Closed PR [#7](https://github.com/boyphongsakorn/myaisfibre-updown-auto/pull/7) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
+2. ❌ Closed PR [#8](https://github.com/boyphongsakorn/myaisfibre-updown-auto/pull/8) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
+3. 🎉 Merged PR [#12](https://github.com/Quad-B/lottsanook-docker/pull/12) in [Quad-B/lottsanook-docker](https://github.com/Quad-B/lottsanook-docker)
+4. 🎉 Merged PR [#6](https://github.com/Quad-B/lottsanook-cfworker/pull/6) in [Quad-B/lottsanook-cfworker](https://github.com/Quad-B/lottsanook-cfworker)
+5. 🗣 Commented on [#4](https://github.com/Quad-B/lottsanook-cfworker/issues/4) in [Quad-B/lottsanook-cfworker](https://github.com/Quad-B/lottsanook-cfworker)
 <!--END_SECTION:activity-->
 
 # My Donate
