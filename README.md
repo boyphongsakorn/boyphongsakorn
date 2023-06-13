@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/boyphongsakorn/province-thai-api/pull/1) in [boyphongsakorn/province-thai-api](https://github.com/boyphongsakorn/province-thai-api)
-2. 🎉 Merged PR [#1](https://github.com/boyphongsakorn/findmyitem/pull/1) in [boyphongsakorn/findmyitem](https://github.com/boyphongsakorn/findmyitem)
-3. 🎉 Merged PR [#39](https://github.com/Quad-B/Manroid/pull/39) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
-4. 🎉 Merged PR [#27](https://github.com/boyphongsakorn/cpsql/pull/27) in [boyphongsakorn/cpsql](https://github.com/boyphongsakorn/cpsql)
-5. 🎉 Merged PR [#5](https://github.com/boyphongsakorn/fix-my-damn-camera/pull/5) in [boyphongsakorn/fix-my-damn-camera](https://github.com/boyphongsakorn/fix-my-damn-camera)
+1. 🎉 Merged PR [#2](https://github.com/boyphongsakorn/findmyitem/pull/2) in [boyphongsakorn/findmyitem](https://github.com/boyphongsakorn/findmyitem)
+2. 🎉 Merged PR [#1](https://github.com/boyphongsakorn/province-thai-api/pull/1) in [boyphongsakorn/province-thai-api](https://github.com/boyphongsakorn/province-thai-api)
+3. 🎉 Merged PR [#1](https://github.com/boyphongsakorn/findmyitem/pull/1) in [boyphongsakorn/findmyitem](https://github.com/boyphongsakorn/findmyitem)
+4. 🎉 Merged PR [#39](https://github.com/Quad-B/Manroid/pull/39) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
+5. 🎉 Merged PR [#27](https://github.com/boyphongsakorn/cpsql/pull/27) in [boyphongsakorn/cpsql](https://github.com/boyphongsakorn/cpsql)
 <!--END_SECTION:activity-->
 
 # My Donate
