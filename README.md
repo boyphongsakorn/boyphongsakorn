@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/boyphongsakorn/testrepo/pull/3) in [boyphongsakorn/testrepo](https://github.com/boyphongsakorn/testrepo)
-2. 🎉 Merged PR [#12](https://github.com/boyphongsakorn/lotto-cron/pull/12) in [boyphongsakorn/lotto-cron](https://github.com/boyphongsakorn/lotto-cron)
-3. 🎉 Merged PR [#6](https://github.com/boyphongsakorn/fix-my-damn-camera/pull/6) in [boyphongsakorn/fix-my-damn-camera](https://github.com/boyphongsakorn/fix-my-damn-camera)
-4. 🎉 Merged PR [#4](https://github.com/boyphongsakorn/testrepo/pull/4) in [boyphongsakorn/testrepo](https://github.com/boyphongsakorn/testrepo)
-5. 🎉 Merged PR [#33](https://github.com/boyphongsakorn/cpsql/pull/33) in [boyphongsakorn/cpsql](https://github.com/boyphongsakorn/cpsql)
+1. 🎉 Merged PR [#6](https://github.com/boyphongsakorn/pwisetthon-discord-bot/pull/6) in [boyphongsakorn/pwisetthon-discord-bot](https://github.com/boyphongsakorn/pwisetthon-discord-bot)
+2. 🎉 Merged PR [#3](https://github.com/boyphongsakorn/testrepo/pull/3) in [boyphongsakorn/testrepo](https://github.com/boyphongsakorn/testrepo)
+3. 🎉 Merged PR [#12](https://github.com/boyphongsakorn/lotto-cron/pull/12) in [boyphongsakorn/lotto-cron](https://github.com/boyphongsakorn/lotto-cron)
+4. 🎉 Merged PR [#6](https://github.com/boyphongsakorn/fix-my-damn-camera/pull/6) in [boyphongsakorn/fix-my-damn-camera](https://github.com/boyphongsakorn/fix-my-damn-camera)
+5. 🎉 Merged PR [#4](https://github.com/boyphongsakorn/testrepo/pull/4) in [boyphongsakorn/testrepo](https://github.com/boyphongsakorn/testrepo)
 <!--END_SECTION:activity-->
 
 # My Donate
