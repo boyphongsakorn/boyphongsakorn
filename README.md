@@ -24,7 +24,7 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 1. 🎉 Merged PR [#38](https://github.com/Quad-B/lottsanook-resultimage-docker/pull/38) in [Quad-B/lottsanook-resultimage-docker](https://github.com/Quad-B/lottsanook-resultimage-docker)
 2. 🎉 Merged PR [#37](https://github.com/Quad-B/lottsanook-resultimage-docker/pull/37) in [Quad-B/lottsanook-resultimage-docker](https://github.com/Quad-B/lottsanook-resultimage-docker)
 3. 🎉 Merged PR [#28](https://github.com/Quad-B/lottsanook-netlify/pull/28) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
-4. 🗣 Commented on [#28](https://github.com/Quad-B/lottsanook-netlify/issues/28) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
+4. 🗣 Commented on [#28](https://github.com/Quad-B/lottsanook-netlify/pull/28#issuecomment-1631242092) in [Quad-B/lottsanook-netlify](https://github.com/Quad-B/lottsanook-netlify)
 5. 🎉 Merged PR [#42](https://github.com/Quad-B/Manroid/pull/42) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
 <!--END_SECTION:activity-->
 
