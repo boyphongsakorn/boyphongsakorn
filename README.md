@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/boyphongsakorn/province-thai-api/pull/5) in [boyphongsakorn/province-thai-api](https://github.com/boyphongsakorn/province-thai-api)
-2. 🎉 Merged PR [#47](https://github.com/Quad-B/Manroid/pull/47) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
-3. 🎉 Merged PR [#46](https://github.com/Quad-B/Manroid/pull/46) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
-4. 🎉 Merged PR [#40](https://github.com/boyphongsakorn/cpsql/pull/40) in [boyphongsakorn/cpsql](https://github.com/boyphongsakorn/cpsql)
-5. 🎉 Merged PR [#9](https://github.com/boyphongsakorn/testrepo/pull/9) in [boyphongsakorn/testrepo](https://github.com/boyphongsakorn/testrepo)
+1. ❌ Closed PR [#16](https://github.com/boyphongsakorn/myaisfibre-updown-auto/pull/16) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
+2. 🎉 Merged PR [#5](https://github.com/boyphongsakorn/province-thai-api/pull/5) in [boyphongsakorn/province-thai-api](https://github.com/boyphongsakorn/province-thai-api)
+3. 🎉 Merged PR [#47](https://github.com/Quad-B/Manroid/pull/47) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
+4. 🎉 Merged PR [#46](https://github.com/Quad-B/Manroid/pull/46) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
+5. 🎉 Merged PR [#40](https://github.com/boyphongsakorn/cpsql/pull/40) in [boyphongsakorn/cpsql](https://github.com/boyphongsakorn/cpsql)
 <!--END_SECTION:activity-->
 
 # My Donate
