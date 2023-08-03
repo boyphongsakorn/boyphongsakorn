@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#16](https://github.com/boyphongsakorn/myaisfibre-updown-auto/pull/16) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
-2. 🎉 Merged PR [#5](https://github.com/boyphongsakorn/province-thai-api/pull/5) in [boyphongsakorn/province-thai-api](https://github.com/boyphongsakorn/province-thai-api)
-3. 🎉 Merged PR [#47](https://github.com/Quad-B/Manroid/pull/47) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
-4. 🎉 Merged PR [#46](https://github.com/Quad-B/Manroid/pull/46) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
-5. 🎉 Merged PR [#40](https://github.com/boyphongsakorn/cpsql/pull/40) in [boyphongsakorn/cpsql](https://github.com/boyphongsakorn/cpsql)
+1. 🎉 Merged PR [#16](https://github.com/boyphongsakorn/myaisfibre-updown-auto/pull/16) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
+2. 🗣 Commented on [#24](https://github.com/Quad-B/lottsanook-cfworker/pull/24#issuecomment-1664439507) in [Quad-B/lottsanook-cfworker](https://github.com/Quad-B/lottsanook-cfworker)
+3. 🗣 Commented on [#16](https://github.com/boyphongsakorn/myaisfibre-updown-auto/pull/16#issuecomment-1664439384) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
+4. 🎉 Merged PR [#9](https://github.com/boyphongsakorn/pwisetthon-discord-bot/pull/9) in [boyphongsakorn/pwisetthon-discord-bot](https://github.com/boyphongsakorn/pwisetthon-discord-bot)
+5. 🎉 Merged PR [#6](https://github.com/boyphongsakorn/province-thai-api/pull/6) in [boyphongsakorn/province-thai-api](https://github.com/boyphongsakorn/province-thai-api)
 <!--END_SECTION:activity-->
 
 # My Donate
