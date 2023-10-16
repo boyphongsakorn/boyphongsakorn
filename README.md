@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/boyphongsakorn/lotto-cron/pull/33) in [boyphongsakorn/lotto-cron](https://github.com/boyphongsakorn/lotto-cron)
-2. 🎉 Merged PR [#32](https://github.com/boyphongsakorn/lotto-cron/pull/32) in [boyphongsakorn/lotto-cron](https://github.com/boyphongsakorn/lotto-cron)
-3. 🎉 Merged PR [#7](https://github.com/boyphongsakorn/minecraft-beta-version-style/pull/7) in [boyphongsakorn/minecraft-beta-version-style](https://github.com/boyphongsakorn/minecraft-beta-version-style)
-4. 🎉 Merged PR [#31](https://github.com/boyphongsakorn/lotto-cron/pull/31) in [boyphongsakorn/lotto-cron](https://github.com/boyphongsakorn/lotto-cron)
-5. 🎉 Merged PR [#19](https://github.com/Quad-B/YTPC/pull/19) in [Quad-B/YTPC](https://github.com/Quad-B/YTPC)
+1. 🎉 Merged PR [#28](https://github.com/boyphongsakorn/myaisfibre-updown-auto/pull/28) in [boyphongsakorn/myaisfibre-updown-auto](https://github.com/boyphongsakorn/myaisfibre-updown-auto)
+2. 🎉 Merged PR [#33](https://github.com/boyphongsakorn/lotto-cron/pull/33) in [boyphongsakorn/lotto-cron](https://github.com/boyphongsakorn/lotto-cron)
+3. 🎉 Merged PR [#32](https://github.com/boyphongsakorn/lotto-cron/pull/32) in [boyphongsakorn/lotto-cron](https://github.com/boyphongsakorn/lotto-cron)
+4. 🎉 Merged PR [#7](https://github.com/boyphongsakorn/minecraft-beta-version-style/pull/7) in [boyphongsakorn/minecraft-beta-version-style](https://github.com/boyphongsakorn/minecraft-beta-version-style)
+5. 🎉 Merged PR [#31](https://github.com/boyphongsakorn/lotto-cron/pull/31) in [boyphongsakorn/lotto-cron](https://github.com/boyphongsakorn/lotto-cron)
 <!--END_SECTION:activity-->
 
 # My Donate
