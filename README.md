@@ -21,11 +21,11 @@ Hi! My Name is Phongsakorn Wisetthon. I'm from Thailand. I'm Poor And Noob Dev F
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/boyphongsakorn/cpsql/pull/50) in [boyphongsakorn/cpsql](https://github.com/boyphongsakorn/cpsql)
-2. 🎉 Merged PR [#58](https://github.com/Quad-B/Manroid/pull/58) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
-3. 🎉 Merged PR [#49](https://github.com/boyphongsakorn/cpsql/pull/49) in [boyphongsakorn/cpsql](https://github.com/boyphongsakorn/cpsql)
-4. 🎉 Merged PR [#11](https://github.com/boyphongsakorn/province-thai-api/pull/11) in [boyphongsakorn/province-thai-api](https://github.com/boyphongsakorn/province-thai-api)
-5. 🎉 Merged PR [#62](https://github.com/Quad-B/lottsanook-resultimage-docker/pull/62) in [Quad-B/lottsanook-resultimage-docker](https://github.com/Quad-B/lottsanook-resultimage-docker)
+1. 🔒 Closed issue [#8173](https://github.com/blakeblackshear/frigate/issues/8173) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+2. 🔒 Closed issue [#8173](https://github.com/blakeblackshear/frigate/issues/8173) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+3. 🎉 Merged PR [#50](https://github.com/boyphongsakorn/cpsql/pull/50) in [boyphongsakorn/cpsql](https://github.com/boyphongsakorn/cpsql)
+4. 🎉 Merged PR [#58](https://github.com/Quad-B/Manroid/pull/58) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
+5. 🎉 Merged PR [#49](https://github.com/boyphongsakorn/cpsql/pull/49) in [boyphongsakorn/cpsql](https://github.com/boyphongsakorn/cpsql)
 <!--END_SECTION:activity-->
 
 # My Donate
