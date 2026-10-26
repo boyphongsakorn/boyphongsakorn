@@ -1,6 +1,6 @@
 Hi! i'm Boy from Thailand. I'm Poor And Noob Web Developer
 
-[![My Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pwisetthon.com/) [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://boyphongsakorn.wordpress.com/)
+[![My Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pwisetthon.com) [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://boyphongsakorn.wordpress.com)
 
 ## My Framework,Cloud And More Use on My Project
 
@@ -8,7 +8,7 @@ Hi! i'm Boy from Thailand. I'm Poor And Noob Web Developer
 
 # My PC spec
 
-![asus-laptop](https://img.shields.io/badge/asus-laptop-000000?style=for-the-badge&logo=asus&logoColor=white) ![AMD-Ryzen_5_3500U](https://img.shields.io/badge/AMD-Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![AMD-Radeon_Vega_Mobile_Gfx](https://img.shields.io/badge/AMD-Radeon_Vega_Mobile_Gfx-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+Macbook Air M1
 
 # My Github stats
 
@@ -28,10 +28,10 @@ Hi! i'm Boy from Thailand. I'm Poor And Noob Web Developer
 5. 🎉 Merged PR [#87](https://github.com/Quad-B/Manroid/pull/87) in [Quad-B/Manroid](https://github.com/Quad-B/Manroid)
 <!--END_SECTION:activity-->
 
-# My Donate
+# My Donation
 
 [![Ko--fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/boyphongsakorn) [![Buy_Me_A_Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/boyphongsakorn) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/boyphongsakorn?country.x=TH&locale.x=th_TH)
 
-# Talk to me or ask me something
+# Talk to me or ask me anything
 
-[![Discord](https://img.shields.io/discord/844173039520317470?label=Discord&logo=Discord&style=for-the-badge)](https://discord.gg/j7xce5hxUf)
+[![Discord For Dev](https://img.shields.io/discord/844173039520317470?label=Discord&logo=Discord&style=for-the-badge)](https://discord.gg/j7xce5hxUf)
